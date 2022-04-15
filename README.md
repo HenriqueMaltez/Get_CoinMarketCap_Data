@@ -1,1 +1,1 @@
-# Get_CoinMarketCap_Data
+# How to use CoinMarketCap API for data analysis
