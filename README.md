@@ -1,6 +1,6 @@
 # How To Use CoinMarketCap’s API For Data Analysis
 
-![alt text](https://ylejxu.zombeek.hu/ENG.html)
+![alt text](https://ylejxu.zombeek.hu/ENG.jpg)
 
 This repository has the codes regarding the automation created in the article How To Use CoinMarketCap's API For Data Analysis <linkd from the article>.
 
