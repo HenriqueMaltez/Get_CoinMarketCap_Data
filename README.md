@@ -1,5 +1,7 @@
 # How To Use CoinMarketCap’s API For Data Analysis
 
+![picture alt](https://ylejxu.zombeek.hu/ENG.html "Title is optional")
+
 This repository has the codes regarding the automation created in the article How To Use CoinMarketCap's API For Data Analysis <linkd from the article>.
 
 * **add_menu** = Adds a menu to the table to execute the functions created.
