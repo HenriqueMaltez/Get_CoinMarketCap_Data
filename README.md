@@ -1,6 +1,6 @@
 # How To Use CoinMarketCap’s API For Data Analysis
 
-![alt text](https://github.com/HenriqueMaltez/Get_CoinMarketCap_Data/blob/main/CMC.png?raw=true/960x576)
+![alt text](https://github.com/HenriqueMaltez/Get_CoinMarketCap_Data/blob/main/CMC.png?raw=true)
 
 
 This repository has the codes regarding the automation created in the article How To Use CoinMarketCap's API For Data Analysis <linkd from the article>.
