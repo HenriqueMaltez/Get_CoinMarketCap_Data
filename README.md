@@ -14,4 +14,4 @@ This repository has the codes regarding the automation created in the article Ho
 * **Example Sheets** = https://docs.google.com/spreadsheets/d/1gNagQEFARtUYMN2B57SA6_JfwnIZ1moNAooyH4WoMnk/edit#gid=995355
 * **Google App Script Documentation** = https://developers.google.com/apps-script
 * **CoinMarketCap API Documentation** = https://coinmarketcap.com/api/documentation/v1
-* **My email (if you need help)** = henriquemaltezz@gmail.com
+* **My email (if you need help)** = maltez.henrique@outlook.com
